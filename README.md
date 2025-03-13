@@ -46,11 +46,11 @@ The figures above represent a subset of the results for **Strategy I** under fau
 
 The performance of the three strategies was evaluated based on reliability metrics, switch deployment, and economic costs. The results are summarized in the table below:
 
-| **Strategy** | **SAIDI (h/year)** | **SAIFI (1/year)** | **EENS (MWh/year)** | **ASAI (%)** | **N_{CB}** | **N_{RCS}** | **N_{SOP}** | **C_{rel} (万元)** | **C_{inv} (万元)** | **C (万元)** |
-|--------------|--------------------|--------------------|---------------------|--------------|---------|----------|----------|----------------|----------------|-------------|
-| **Strategy I** | 0.4044            | 0.7777            | 1.3504             | 99.9954      | 16      | 39       | 2        | 67.52         | 38.28         | 105.80      |
-| **Strategy II** | 1.1402           | 2.8574            | 4.1957             | 99.9870      | 4       | 55       | 0        | 209.78        | 16.45         | 226.23      |
-| **Strategy III** | 0.7173          | 1.1656            | 2.5237             | 99.9918      | 16      | 43       | 0        | 126.19        | 23.19         | 149.38      |
+| **Strategy** | **SAIDI**<br>(h/year) | **SAIFI**<br>(1/year) | **EENS**<br>(MWh/year) | **ASAI**<br>(%) | **\(N_{CB}\)** | **\(N_{RCS}\)** | **\(N_{SOP}\)** | **\(C_{rel}\)**<br>(万元) | **\(C_{inv}\)**<br>(万元) | **\(C\)**<br>(万元) |
+|--------------|-----------------------|-----------------------|------------------------|---------------|--------------|---------------|---------------|-----------------------|-----------------------|-----------------|
+| **Strategy I** | 0.4044              | 0.7777              | 1.3504               | 99.9954       | 16           | 39            | 2             | 67.52               | 38.28               | 105.80          |
+| **Strategy II** | 1.1402             | 2.8574              | 4.1957               | 99.9870       | 4            | 55            | 0             | 209.78              | 16.45               | 226.23          |
+| **Strategy III** | 0.7173            | 1.1656              | 2.5237               | 99.9918       | 16           | 43            | 0             | 126.19              | 23.19               | 149.38          |
 
 ### Key Observations
 - **Strategy I** (with SOP) outperforms the other strategies in all reliability metrics (SAIDI, SAIFI, EENS, and ASAI), highlighting SOP's advantages in fault isolation, load transfer, and voltage support.
