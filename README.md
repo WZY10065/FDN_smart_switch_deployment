@@ -1,4 +1,4 @@
-# High-Reliability Flexible Distribution Network Switch Configuration Optimization
+# High-Reliability Flexible Distribution Network Switch Deployment Optimization
 
 This repository contains the optimization results and detailed analysis for the switch configuration in a high-reliability flexible distribution network (FDN), as presented in Chapter 4 of the study titled *"High-Reliability Flexible Distribution Network Switch Optimal Configuration Method"*. The study focuses on the synergistic deployment of multiple types of intelligent switches—namely **Circuit Breakers (CB)**, **Remote-Controlled Switches (RCS)**, and **Soft Open Points (SOP)**—to enhance the reliability and self-healing capability of flexible distribution networks under various fault scenarios.
 
