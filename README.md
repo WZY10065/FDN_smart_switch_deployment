@@ -46,11 +46,11 @@ The figures above represent a subset of the results for **Strategy I** under fau
 
 The performance of the three strategies was evaluated based on reliability metrics, switch deployment, and economic costs. The results are summarized in the table below:
 
-| Strategy   | SAIDI (h/year) | SAIFI (1/year) | EENS (MWh/year) | ASAI (%) | N_CB | N_RCS | N_SOP | C_rel (万元) | C_inv (万元) | C (万元) |
-|------------|----------------|----------------|-----------------|----------|------|-------|-------|-------------|-------------|---------|
-| Strategy I | 0.4044         | 0.7777         | 1.3504          | 99.9954  | 16   | 39    | 2     | 67.52       | 38.28       | 105.80  |
-| Strategy II| 1.1402         | 2.8574         | 4.1957          | 99.9870  | 4    | 55    | 0     | 209.78      | 16.45       | 226.23  |
-| Strategy III| 0.7173        | 1.1656         | 2.5237          | 99.9918  | 16   | 43    | 0     | 126.19      | 23.19       | 149.38  |
+| Strategy   | SAIDI (h/年) | SAIFI (1/年) | EENS (MWh/年) | ASAI (%) | N_CB | N_RCS | N_SOP | C_rel (万) | C_inv (万) | C (万) |
+|------------|--------------|--------------|---------------|----------|------|-------|-------|-----------|-----------|-------|
+| Strategy I | 0.4044       | 0.7777       | 1.3504        | 99.9954  | 16   | 39    | 2     | 67.52     | 38.28     | 105.80|
+| Strategy II| 1.1402       | 2.8574       | 4.1957        | 99.9870  | 4    | 55    | 0     | 209.78    | 16.45     | 226.23|
+| Strategy III| 0.7173      | 1.1656       | 2.5237        | 99.9918  | 16   | 43    | 0     | 126.19    | 23.19     | 149.38|
 
 ## How to Use This Repository
 
